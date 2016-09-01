@@ -1,0 +1,13 @@
+{
+  "name": "ethos.elastic.import",
+  "version": "0.0.0",
+  "description": "Ethos.Elastic.Import",
+  "main": "app.js",
+  "author": {
+    "name": "kwiegand"
+  },
+  "devDependencies": {
+    "elasticsearch-csv": "0.0.3",
+    "require": "2.4.20" 
+  }
+}

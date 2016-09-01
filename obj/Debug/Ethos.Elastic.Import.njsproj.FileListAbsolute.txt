@@ -1,0 +1,2 @@
+C:\Dev\Node\Ethos\Ethos.Elastic.Import\obj\Debug\Ethos.Elastic.Import.njsprojResolveAssemblyReference.cache
+C:\Dev\Node\Ethos\Ethos.Elastic.Import\bin\Microsoft.NodejsTools.WebRole.dll
