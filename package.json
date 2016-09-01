@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "elasticsearch-csv": "0.0.3",
-    "require": "2.4.20" 
+    "fast-csv": "^2.1.0",
+    "require": "2.4.20"
   }
 }
